@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 48e07bea626aa7a4099a73723b089861
+timeCreated: 1521810782
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bottle01Body
+    100002: Bottle01Cap
+    100004: Bottle02Body
+    100006: Bottle02Cap
+    100008: Bottle02CapTop
+    100010: Bottle03Body
+    100012: Bottle03Cap
+    100014: Bottle03CapTop
+    100016: Bottle04Body
+    100018: Bottle04Cap
+    100020: Plane
+    100022: //RootNode
+    400000: Bottle01Body
+    400002: Bottle01Cap
+    400004: Bottle02Body
+    400006: Bottle02Cap
+    400008: Bottle02CapTop
+    400010: Bottle03Body
+    400012: Bottle03Cap
+    400014: Bottle03CapTop
+    400016: Bottle04Body
+    400018: Bottle04Cap
+    400020: Plane
+    400022: //RootNode
+    2100000: BlackCap
+    2100002: Bottle01
+    2100004: Bottle03
+    2100006: Bottle02
+    2100008: Bottle04
+    2100010: No Name
+    2300000: Bottle01Body
+    2300002: Bottle01Cap
+    2300004: Bottle02Body
+    2300006: Bottle02Cap
+    2300008: Bottle02CapTop
+    2300010: Bottle03Body
+    2300012: Bottle03Cap
+    2300014: Bottle03CapTop
+    2300016: Bottle04Body
+    2300018: Bottle04Cap
+    2300020: Plane
+    3300000: Bottle01Body
+    3300002: Bottle01Cap
+    3300004: Bottle02Body
+    3300006: Bottle02Cap
+    3300008: Bottle02CapTop
+    3300010: Bottle03Body
+    3300012: Bottle03Cap
+    3300014: Bottle03CapTop
+    3300016: Bottle04Body
+    3300018: Bottle04Cap
+    3300020: Plane
+    4300000: Bottle01Cap
+    4300002: Bottle01Body
+    4300004: Bottle03Body
+    4300006: Bottle03Cap
+    4300008: Bottle03CapTop
+    4300010: Bottle02CapTop
+    4300012: Bottle02Cap
+    4300014: Bottle02Body
+    4300016: Bottle04Body
+    4300018: Bottle04Cap
+    4300020: Plane
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

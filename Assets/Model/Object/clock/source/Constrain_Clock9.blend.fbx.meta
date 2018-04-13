@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: a289d553d0a6fcd4a83aa708234929df
+timeCreated: 1519574072
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Hemi
+    100004: Minuten
+    100006: Minuten.001
+    100008: Minuten.002
+    100010: Minuten.004
+    100012: Minuten.005
+    400000: //RootNode
+    400002: Hemi
+    400004: Minuten
+    400006: Minuten.001
+    400008: Minuten.002
+    400010: Minuten.004
+    400012: Minuten.005
+    2100000: Uhr_2_Rand
+    2100002: Uhr_2
+    2100004: Uhr_2.001
+    2100006: min_Zeiger
+    2100008: Sec_Zeiger
+    2300000: Minuten
+    2300002: Minuten.001
+    2300004: Minuten.002
+    2300006: Minuten.004
+    2300008: Minuten.005
+    3300000: Minuten
+    3300002: Minuten.001
+    3300004: Minuten.002
+    3300006: Minuten.004
+    3300008: Minuten.005
+    4300000: Minuten.002
+    4300002: Minuten.001
+    4300004: Minuten.005
+    4300006: Minuten.004
+    4300008: Minuten
+    7400000: Hemi|1
+    7400002: Hemi|2
+    7400004: Hemi|3
+    7400006: Hemi|HemiAction
+    7400008: Hemi|Minuten.001Action
+    7400010: Hemi|Minuten.002Action
+    7400012: Minuten.002|1
+    7400014: Minuten.002|2
+    7400016: Minuten.002|3
+    7400018: Minuten.002|HemiAction
+    7400020: Minuten.002|Minuten.001Action
+    7400022: Minuten.002|Minuten.002Action
+    7400024: Minuten.001|1
+    7400026: Minuten.001|2
+    7400028: Minuten.001|3
+    7400030: Minuten.001|HemiAction
+    7400032: Minuten.001|Minuten.001Action
+    7400034: Minuten.001|Minuten.002Action
+    7400036: Minuten.005|1
+    7400038: Minuten.005|2
+    7400040: Minuten.005|3
+    7400042: Minuten.005|HemiAction
+    7400044: Minuten.005|Minuten.001Action
+    7400046: Minuten.005|Minuten.002Action
+    7400048: Minuten.004|1
+    7400050: Minuten.004|2
+    7400052: Minuten.004|3
+    7400054: Minuten.004|HemiAction
+    7400056: Minuten.004|Minuten.001Action
+    7400058: Minuten.004|Minuten.002Action
+    7400060: Minuten|1
+    7400062: Minuten|2
+    7400064: Minuten|3
+    7400066: Minuten|HemiAction
+    7400068: Minuten|Minuten.001Action
+    7400070: Minuten|Minuten.002Action
+    9500000: //RootNode
+    10800000: Hemi
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
