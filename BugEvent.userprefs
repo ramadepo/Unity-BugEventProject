@@ -1,11 +1,14 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PressToMove.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SpiderManage.cs">
     <Files>
-      <File FileName="Assets\Scripts\PressToMove.cs" Line="48" Column="109" />
+      <File FileName="Assets\Scripts\PressToMove.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\BugBehaviour.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\MomBugNumberTextBehaviour.cs" Line="1" Column="1" />
       <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SpiderManage.cs" Line="19" Column="28" />
+      <File FileName="Assets\Scripts\HPDamagePerBug.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WomenScared.cs" Line="6" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
