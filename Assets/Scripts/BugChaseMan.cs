@@ -5,7 +5,6 @@ using UnityEngine.AI;
 
 public class BugChaseMan : MonoBehaviour {
 
-	private SpiderManage manager;
 
 	private Transform Destination;
 	private NavMeshAgent navMeshAgent;
@@ -14,7 +13,6 @@ public class BugChaseMan : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		manager = GameObject.Find ("SpiderManager").GetComponent<SpiderManage> ();
 		bugBe = GetComponent<BugBehaviour> ();
 		navMeshAgent = GetComponent<NavMeshAgent> ();
 		Destination = GameObject.FindWithTag ("SpiderTarget").transform;
@@ -25,7 +23,7 @@ public class BugChaseMan : MonoBehaviour {
 		if (bugBe.hp <= 0) {
 			if (haveChased) {
 				haveChased = false;
-				manager.KillBug ();
+				SpiderManage.KillBug ();
 			}
 			Component.Destroy (navMeshAgent);
 		} else {
@@ -35,7 +33,7 @@ public class BugChaseMan : MonoBehaviour {
 
 	public void Chase(){
 		if (!haveChased) {
-			manager.AddBug ();
+			SpiderManage.AddBug ();
 			haveChased = true;
 		}
 	}

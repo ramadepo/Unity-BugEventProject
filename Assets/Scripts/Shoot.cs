@@ -45,6 +45,9 @@ public class Shoot : MonoBehaviour {
 	}
 
 	private void Spray(){
+		if (!GameManage.canControl) {
+			return;
+		}
 		if (Input.GetButtonDown("Fire1")) {
 			ani.SetBool ("IsShooting", true);
 

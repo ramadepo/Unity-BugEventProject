@@ -28,21 +28,22 @@ public class SpiderManage : MonoBehaviour {
 		} else {
 			Blacker ();
 		}
-	}
-
-	public int bugCount = 0;
-
-	public void AddBug(){
-		bugCount++;
-	}
-
-	public void KillBug(){
-		bugCount--;
-		if (bugCount == 0) {	//reset vignette
+		if (SpiderManage.bugCount == 0) {	//reset vignette
 			vvset.color.r = 0f;
 			reding = false;
 			CC.vignette.settings = vvset;
 		}
+	}
+
+	public static int bugCount = 0;
+
+	public static void AddBug(){
+		bugCount++;
+	}
+
+	public static void KillBug(){
+		bugCount--;
+
 	}
 
 	private void Reder(){	//red vignette

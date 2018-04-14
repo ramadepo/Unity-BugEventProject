@@ -5,7 +5,6 @@ using UnityEngine.UI;
 
 public class HPDamagePerBug : MonoBehaviour {
 
-	private SpiderManage manager;
 
 	private float HP = 1000;
 	private Image hpBar;
@@ -13,7 +12,6 @@ public class HPDamagePerBug : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		manager = GameObject.Find ("SpiderManager").GetComponent<SpiderManage> ();
 		hpBar = GetComponent<Image> ();
 	}
 
@@ -25,7 +23,7 @@ public class HPDamagePerBug : MonoBehaviour {
 
 	private void BugHit(){
 		if (HP > 0) {
-			HP -= bugDamage * manager.bugCount * Time.deltaTime;
+			HP -= bugDamage * SpiderManage.bugCount * Time.deltaTime;
 		} else {
 			HP = 0;
 		}
