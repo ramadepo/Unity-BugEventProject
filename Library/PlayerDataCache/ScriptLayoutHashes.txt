@@ -1,6 +1,5 @@
 WindowsStandalone
 SceneListBegin?
-Assets/Scenes/BugTalk0.unity
 Assets/Scenes/Bug0.unity
 SceneListEnd?
 b497cd6cb84c2199c071bc81e08e7906 Assembly-CSharp.dll:Fungus.Stop
@@ -8,7 +7,7 @@ b497cd6cb84c2199c071bc81e08e7906 Assembly-CSharp.dll:Fungus.Stop
 c906602d9b43cc5e075f80e1d8ae7c79 Assembly-CSharp.dll:TMPro.Examples.Benchmark01_UGUI
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.SfxrCacheSurrogate
 4d856d9b5bbca35c058a752c72efb65e Assembly-CSharp.dll:Fungus.PunchRotation
-79f705b89415dc7e30a98d44fac7f43f Assembly-CSharp.dll:.PressToMove
+2fd86136efa46c1f7c208189dfdd1c30 Assembly-CSharp.dll:.PressToMove
 fd0f43a3b3758d704d6ddaee31a24a8b Assembly-CSharp.dll:Fungus.FlowchartEnabled
 e3ea99699c3e3c6d4457355e3ca5af67 Assembly-CSharp.dll:Fungus.RotateFrom
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:Fungus.SaveManager
@@ -187,7 +186,7 @@ c57a56bf07ca7d2afd1842c355294ac1 Assembly-CSharp.dll:Fungus.ShakePosition
 94a1cc01fc933cc2fe9c57d0c04659bd Assembly-CSharp.dll:Fungus.TransformVariable
 45992b6f4f60d9b3be2b14180d6e9fc4 Assembly-CSharp.dll:Fungus.CameraManager
 47228bc76b2318f77dee0820f81c3032 Assembly-CSharp.dll:Fungus.MaterialVariable
-2c93592a7b17d922713b796083175b43 Assembly-CSharp.dll:.SpiderManage
+37951e2becb5972a7fbc2a7524b7c91c Assembly-CSharp.dll:.SpiderManage
 640f579a68a9d1acf9bb86ce52ab550f Assembly-CSharp.dll:Fungus.LookTo
 b497cd6cb84c2199c071bc81e08e7906 Assembly-CSharp.dll:Fungus.Quit
 46c1e58210489c3822d99831463eecf0 Assembly-CSharp.dll:Fungus.ControlStage
