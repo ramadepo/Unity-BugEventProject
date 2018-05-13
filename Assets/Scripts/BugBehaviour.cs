@@ -7,7 +7,7 @@ public class BugBehaviour : MonoBehaviour {
 	public float hp=50f;
 	public bool isMom;
 	public GameObject childBug;
-	public Transform[] SpawnPlace;
+	public GameObject SpawnPlace;
 
 	private Animator ani;
 	private float firstFirst = 15f;//10
@@ -43,8 +43,8 @@ public class BugBehaviour : MonoBehaviour {
 	}
 
 	private void Spawn(){
-		int SpawnPlaceNum = Random.Range (0, SpawnPlace.Length);
-		Instantiate (childBug, SpawnPlace [SpawnPlaceNum].position, SpawnPlace [SpawnPlaceNum].rotation);
+		int SpawnPlaceNum = Random.Range (0, SpawnPlace.transform.childCount);
+		Instantiate (childBug, SpawnPlace.transform.GetChild (SpawnPlaceNum).position, SpawnPlace.transform.GetChild (SpawnPlaceNum).rotation);
 		Debug.Log ("Spawn!!!");
 		Invoke ("Spawn", Random.Range (secondFirst, secondSecond));
 	}

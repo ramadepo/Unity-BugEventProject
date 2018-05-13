@@ -67,3 +67,4 @@ C:\Users\拉馬\Documents\BugEvent\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xco
 C:\Users\拉馬\Documents\BugEvent\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
 C:\Users\拉馬\Documents\BugEvent\obj\Debug\Assembly-CSharp-firstpass.dll
 C:\Users\拉馬\Documents\BugEvent\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\拉馬\Documents\BugEvent\Temp\bin\Debug\UnityEditor.Android.Extensions.dll

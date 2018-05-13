@@ -667,6 +667,7 @@
      <Compile Include="Assets\Scripts\Socket\Server.cs" />
      <Compile Include="Assets\Scripts\SpiderManage.cs" />
      <Compile Include="Assets\Scripts\Transport.cs" />
+     <Compile Include="Assets\Scripts\WomanWalkAround.cs" />
      <Compile Include="Assets\Scripts\WomenScared.cs" />
      <None Include="Assets\AssetStore\PostProcessing\Resources\Shaders\DepthOfField.shader" />
      <None Include="Assets\AssetStore\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
