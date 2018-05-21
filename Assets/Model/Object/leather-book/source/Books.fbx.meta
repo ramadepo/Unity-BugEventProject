@@ -72,7 +72,17 @@ ModelImporter:
     2300000: polySurface42
     3300000: polySurface42
     4300000: polySurface42
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Cover
+    second: {fileID: 2100000, guid: 59da78f5f566c73419aaab6f0267e6f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Book_Paper
+    second: {fileID: 2100000, guid: 553dbdce3f8dd6a4db32c98859737370, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

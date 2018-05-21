@@ -124,6 +124,7 @@ f61c0793411f10cf5fbfa1473fef5ef2 UnityEngine.UI.dll:UnityEngine.UI.ToggleGroup
 6a492d7b8465b2c00d15794caa46ec2e Assembly-CSharp.dll:TMPro.Examples.TMPro_InstructionOverlay
 c6f8879c5be2aa1779658f46fa00d126 Assembly-CSharp.dll:Fungus.RandomFloat
 3ecea0c2e43f5d97a17c441bfcf59a7d Assembly-CSharp.dll:UnityEngine.PostProcessing.PostProcessingBehaviour
+83877f03b51b3b13fa0d6c51291e0575 Assembly-CSharp.dll:UnityStandardAssets.Characters.FirstPerson.HeadBob
 915aaa3e4bafcb49624a01ea67789b7e Assembly-CSharp.dll:Fungus.BooleanVariable
 670b7711a7b0282935c373e5e7510848 Assembly-CSharp.dll:Fungus.Draggable2D
 2e7d0e3b7c726491e27b2989eb53993f Assembly-CSharp.dll:Fungus.Stage
@@ -151,6 +152,7 @@ df374c01140c2d578bf70cbd60073d1d UnityEngine.Timeline.dll:UnityEngine.Timeline.T
 2116ce0c9bbe0018bf219d0d8896533f Assembly-CSharp.dll:Fungus.ResetAnimTrigger
 b2a13d54da2efcf1551bf9fc0a62c1cd Assembly-CSharp.dll:Fungus.PlayAnimState
 d24c75a72062b1df3f05d6730d4a0a44 Assembly-CSharp.dll:Fungus.InfoText
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.GameManage
 2cf26a4fb841e8541f2cfceb94484a8f Assembly-CSharp.dll:Fungus.Comment
 b497cd6cb84c2199c071bc81e08e7906 Assembly-CSharp.dll:Fungus.End
 df2ac44d55e8622ab328e8580f4621fa Assembly-CSharp.dll:.CustomScript
@@ -186,7 +188,7 @@ c57a56bf07ca7d2afd1842c355294ac1 Assembly-CSharp.dll:Fungus.ShakePosition
 94a1cc01fc933cc2fe9c57d0c04659bd Assembly-CSharp.dll:Fungus.TransformVariable
 45992b6f4f60d9b3be2b14180d6e9fc4 Assembly-CSharp.dll:Fungus.CameraManager
 47228bc76b2318f77dee0820f81c3032 Assembly-CSharp.dll:Fungus.MaterialVariable
-37951e2becb5972a7fbc2a7524b7c91c Assembly-CSharp.dll:.SpiderManage
+ec2545ea4d6f4a88ace7fe81daee1ed7 Assembly-CSharp.dll:.SpiderManage
 640f579a68a9d1acf9bb86ce52ab550f Assembly-CSharp.dll:Fungus.LookTo
 b497cd6cb84c2199c071bc81e08e7906 Assembly-CSharp.dll:Fungus.Quit
 46c1e58210489c3822d99831463eecf0 Assembly-CSharp.dll:Fungus.ControlStage
@@ -233,6 +235,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 fd0f43a3b3758d704d6ddaee31a24a8b Assembly-CSharp.dll:Fungus.EventHandler
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DragRigidbody
 56dfa3a1efcb6e4aa53d8704b628233e Assembly-CSharp.dll:Fungus.ToInt
+c947c261c708d61b05a09e655e7a283d Assembly-CSharp.dll:.Transport
 9097659009a3818ac311a0574bbfa88e Assembly-CSharp.dll:.Server
 50a0fa002cfc67638c87a901e46b763e Assembly-CSharp.dll:TMPro.Examples.TMP_TextSelector_B
 ee80fac5766a5a808eacea4ff0999088 Assembly-CSharp.dll:Fungus.Portrait
@@ -300,6 +303,7 @@ a90e94673f50d2237c1b971c138660c6 Assembly-CSharp-firstpass.dll:UnityStandardAsse
 57fde8e76fc7bce23deb0e799d336be7 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.SmoothFollow
 e92ac52ce31e11bccabd09c71c58091c Assembly-CSharp.dll:Fungus.MoveTo
 e1be7416cd0029d9960d6fe7a95e9cee Assembly-CSharp.dll:Fungus.ScaleTo
+b1f0704fc1b542c80ecf3fa1bbf472a1 Assembly-CSharp.dll:UnityStandardAssets.Characters.FirstPerson.RigidbodyFirstPersonController
 05524b8f659e7bfe5756d1335fec24ba TextMeshPro-2017.3-1.0.56-Editor.dll:TMPro.EditorUtilities.DropdownEditor
 05524b8f659e7bfe5756d1335fec24ba TextMeshPro-2017.3-1.0.56-Editor.dll:TMPro.EditorUtilities.TMP_ColorGradientEditor
 05524b8f659e7bfe5756d1335fec24ba TextMeshPro-2017.3-1.0.56-Editor.dll:TMPro.EditorUtilities.TMP_ContextMenus
@@ -400,7 +404,7 @@ aa9d1bd0cc771545f2ae1f63a6d0ed6a Assembly-CSharp.dll:TMPro.Examples.TMP_TextEven
 959d0fff5e452c20f305e0bfe3cf69de Assembly-CSharp.dll:Fungus.ApplicationState
 e7616abb390a21bcfd4e9f1697910642 Assembly-CSharp.dll:Fungus.StopTween
 131438269e7cd20bc413758d5cf3b691 Assembly-CSharp.dll:Fungus.MoveFrom
-60a5d68ae87101b6ddca1116f623cde7 Assembly-CSharp.dll:.BugBehaviour
+a66b95aae38a0b016a60d02f89a267b3 Assembly-CSharp.dll:.BugBehaviour
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 d2af69ce28cda6fcf0b7728ae3f251b4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DynamicShadowSettings
 abb921b4ef874b7b5b817e54014be6c9 Assembly-CSharp.dll:Fungus.If
@@ -476,6 +480,8 @@ a0dcb8b539796676b0a47cc6bb8cf1ed Assembly-CSharp.dll:Fungus.DragExited
 a9b584424c1bd58fc35cf0db73a8a42e Assembly-CSharp.dll:Fungus.DragCancelled
 69bba96e3802fac375bfb367ad29b6d8 Assembly-CSharp.dll:Fungus.SetVariable
 3d4501935c82b1ad586cc7811d1f8ed2 Assembly-CSharp.dll:Fungus.Collision
+52599e6f43d53a3ce18953b82746b5eb Assembly-CSharp.dll:UnityStandardAssets.Characters.FirstPerson.FirstPersonController
+a69e1ce81e91713d98e711cf4a1ab384 Assembly-CSharp.dll:.WomanWalkAround
 c62a0d5a09fb248b291a594b3005858f Assembly-CSharp.dll:Fungus.TransformProperty
 af7666733efcc974926d7d470e1732a6 Assembly-CSharp.dll:TMPro.Examples.SkewTextExample
 e2edf8be30edf1b53356e4ac2139b562 Assembly-CSharp.dll:Fungus.Writer

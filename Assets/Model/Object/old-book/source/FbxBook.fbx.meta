@@ -12,7 +12,27 @@ ModelImporter:
     3300000: //RootNode
     4300000: Book
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: aa03fcb72201da349afc8029fb8998bd, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: libro
+    second: {fileID: 2800000, guid: 73924acdcd476cf4dba99b57045a0421, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: libroEspecular
+    second: {fileID: 2800000, guid: 11cc60ed851bb294f928dee60ff00778, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: librobump
+    second: {fileID: 2800000, guid: 7478bd3e69cb43f4f93b63f95ee73e3c, type: 3}
   materials:
     importMaterials: 1
     materialName: 0

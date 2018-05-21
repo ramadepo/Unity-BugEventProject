@@ -42,7 +42,27 @@ ModelImporter:
     4300008: Bottoms
     4300010: Hair
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body2
+    second: {fileID: 2100000, guid: c6975a3d526f9ad4faefb1b4e179ff6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottom1
+    second: {fileID: 2100000, guid: c6f22bd07e12a654086a8322ebb6157e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair2
+    second: {fileID: 2100000, guid: bd902ea1fe2f0af41a0f7c14232d4e1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Top1
+    second: {fileID: 2100000, guid: a91bb7d8c0af8f448a989f544df637ea, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

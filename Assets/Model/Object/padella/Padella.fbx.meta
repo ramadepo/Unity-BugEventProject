@@ -13,7 +13,17 @@ ModelImporter:
     3300000: //RootNode
     4300000: Padella_Low1
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Internonero1
+    second: {fileID: 2100000, guid: 723a2d77f78b5e44099da22ed3740200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ___Default1
+    second: {fileID: 2100000, guid: 2bc12d78c2b93ce4199537920eeaccbb, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

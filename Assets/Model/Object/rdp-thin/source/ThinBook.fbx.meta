@@ -685,7 +685,102 @@ ModelImporter:
     4300256: pasted__pasted__pasted__bevelPolygon2
     4300258: pasted__pasted__pasted__bevelPolygon3
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Device_Color1
+    second: {fileID: 2100000, guid: db19aecf497248c4f941b65cb7ed4005, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trackpad
+    second: {fileID: 2100000, guid: 50f27f5847f19e942944bf94e807ae66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn11
+    second: {fileID: 2100000, guid: 9e67a89da6d71b641876b6d7197ba1c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn15
+    second: {fileID: 2100000, guid: c1a1a1a56fe10ca40bb77dc9c2b670ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn16
+    second: {fileID: 2100000, guid: e830ed30ddfeb694b9b710f70bdd6ad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn18
+    second: {fileID: 2100000, guid: 88295ded55fc03b42ad19bb198e94d1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: display
+    second: {fileID: 2100000, guid: 7ea89b9b9f671bd4393eb1550a520b9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: display frame1
+    second: {fileID: 2100000, guid: a70944b968b2bd1449f64a68215df40a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass1
+    second: {fileID: 2100000, guid: ae33f08ce0918dd4582454d8f84def06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: keyboard2
+    second: {fileID: 2100000, guid: 643c89d5b08c50f4280154562735633b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: 495eecd6c838a8e40a365e7abfd38c95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 010b228236d31874eafd150c4ae0b129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: ffb0bfaef872de14d92d939516971116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal5
+    second: {fileID: 2100000, guid: b87d262c22e866d45b7a9cd0a521a6e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong3
+    second: {fileID: 2100000, guid: 6a0a2b0048b302343a1d5dade0c92bd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber3
+    second: {fileID: 2100000, guid: ce6fcff89f6a95140acb5fb54e32760d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber6
+    second: {fileID: 2100000, guid: 71ce73cab07040943b9422a72ee3682b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rubber7
+    second: {fileID: 2100000, guid: f1c86c08ba7f75e46a72f950d52353d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: screws1
+    second: {fileID: 2100000, guid: 7f04c376bfbb3a24b825fb170147b7d2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
