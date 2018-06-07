@@ -89,7 +89,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 112000420, guid: c633f90b2b5daec419432ccc0c0905b4,
+  m_LightingDataAsset: {fileID: 112000424, guid: c633f90b2b5daec419432ccc0c0905b4,
     type: 2}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -41877,7 +41877,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2008411034
 MonoBehaviour:
   m_ObjectHideFlags: 0
