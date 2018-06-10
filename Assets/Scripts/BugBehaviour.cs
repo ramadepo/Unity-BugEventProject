@@ -31,6 +31,10 @@ public class BugBehaviour : MonoBehaviour {
 		ani.SetBool ("haveChased", true);
 	}
 
+	public void notChase(){
+		ani.SetBool ("haveChased", false);
+	}
+
 	public void Destroy(){
 		Debug.Log (gameObject.name + " was dead");
 		GameObject.Destroy (gameObject);

@@ -666,6 +666,8 @@
      <Compile Include="Assets\Scripts\Shoot.cs" />
      <Compile Include="Assets\Scripts\Socket\Server.cs" />
      <Compile Include="Assets\Scripts\SpiderManage.cs" />
+     <Compile Include="Assets\Scripts\SupportItem.cs" />
+     <Compile Include="Assets\Scripts\SupportWoman.cs" />
      <Compile Include="Assets\Scripts\Transport.cs" />
      <Compile Include="Assets\Scripts\WomanWalkAround.cs" />
      <Compile Include="Assets\Scripts\WomenScared.cs" />

@@ -28,4 +28,11 @@ public class HPDamagePerBug : MonoBehaviour {
 			HP = 0;
 		}
 	}
+
+	public void AddHP(float value){
+		HP += value;
+		if (HP > 1000f) {
+			HP = 1000f;
+		}
+	}
 }

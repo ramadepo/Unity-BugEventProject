@@ -13,6 +13,7 @@ TagManager:
   - HUD
   - SpiderTarget
   - Spider
+  - SupportItem
   layers:
   - Default
   - TransparentFX

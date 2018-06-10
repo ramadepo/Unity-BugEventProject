@@ -10,12 +10,17 @@ public class BugChaseMan : MonoBehaviour {
 	private NavMeshAgent navMeshAgent;
 	private BugBehaviour bugBe;
 	private bool haveChased = false;
+	private int randGo;
 
 	// Use this for initialization
 	void Start () {
 		bugBe = GetComponent<BugBehaviour> ();
 		navMeshAgent = GetComponent<NavMeshAgent> ();
 		Destination = GameObject.FindWithTag ("SpiderTarget").transform;
+		randGo = Random.Range (0, 101);
+		if (0 <= randGo && randGo <= 75) {
+			navMeshAgent.SetDestination (GameObject.Find ("SpawnPlace").transform.GetChild (Random.Range (0, GameObject.Find ("SpawnPlace").transform.childCount)).position);
+		}
 	}
 	
 	// Update is called once per frame
@@ -27,7 +32,9 @@ public class BugChaseMan : MonoBehaviour {
 			}
 			Component.Destroy (navMeshAgent);
 		} else {
-			navMeshAgent.SetDestination (Destination.position);
+			if (randGo > 75) {
+				navMeshAgent.SetDestination (Destination.position);
+			}
 		}
 	}
 
@@ -36,5 +43,10 @@ public class BugChaseMan : MonoBehaviour {
 			SpiderManage.AddBug ();
 			haveChased = true;
 		}
+	}
+
+	public void notChase(){
+		SpiderManage.MinusBug ();
+		haveChased = false;
 	}
 }

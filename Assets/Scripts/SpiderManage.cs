@@ -41,9 +41,18 @@ public class SpiderManage : MonoBehaviour {
 		bugCount++;
 	}
 
+	public static void MinusBug(){
+		bugCount--;
+		if (bugCount < 0) {
+			bugCount = 0;
+		}
+	}
+
 	public static void KillBug(){
 		bugCount--;
-
+		if (bugCount < 0) {
+			bugCount = 0;
+		}
 	}
 
 	private void Reder(){	//red vignette

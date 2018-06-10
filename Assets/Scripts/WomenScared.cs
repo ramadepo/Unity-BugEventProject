@@ -22,4 +22,12 @@ public class WomenScared : MonoBehaviour {
 			other.GetComponent<BugBehaviour> ().Chase ();
 		}
 	}
+
+	private void OnTriggerExit(Collider other){
+		if (other.CompareTag("Spider")) {
+			theAudio.Stop ();
+			other.GetComponent<BugChaseMan> ().notChase ();
+			other.GetComponent<BugBehaviour> ().notChase ();
+		}
+	}
 }
