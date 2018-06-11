@@ -20,6 +20,7 @@ public class BugChaseMan : MonoBehaviour {
 		randGo = Random.Range (0, 101);
 		if (0 <= randGo && randGo <= 75) {
 			navMeshAgent.SetDestination (GameObject.Find ("SpawnPlace").transform.GetChild (Random.Range (0, GameObject.Find ("SpawnPlace").transform.childCount)).position);
+			Invoke ("RandomGo", 20f);
 		}
 	}
 	
@@ -35,6 +36,14 @@ public class BugChaseMan : MonoBehaviour {
 			if (randGo > 75) {
 				navMeshAgent.SetDestination (Destination.position);
 			}
+		}
+	}
+
+	private void RandomGo(){
+		randGo = Random.Range (0, 101);
+		if (0 <= randGo && randGo <= 75) {
+			navMeshAgent.SetDestination (GameObject.Find ("SpawnPlace").transform.GetChild (Random.Range (0, GameObject.Find ("SpawnPlace").transform.childCount)).position);
+			Invoke ("RandomGo", 20f);
 		}
 	}
 
