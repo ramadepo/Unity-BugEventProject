@@ -235,6 +235,7 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.Spa
 fd0f43a3b3758d704d6ddaee31a24a8b Assembly-CSharp.dll:Fungus.EventHandler
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DragRigidbody
 56dfa3a1efcb6e4aa53d8704b628233e Assembly-CSharp.dll:Fungus.ToInt
+ad24379fc8be3503450de6cb450e5263 Assembly-CSharp.dll:.SupportWoman
 c947c261c708d61b05a09e655e7a283d Assembly-CSharp.dll:.Transport
 9097659009a3818ac311a0574bbfa88e Assembly-CSharp.dll:.Server
 50a0fa002cfc67638c87a901e46b763e Assembly-CSharp.dll:TMPro.Examples.TMP_TextSelector_B
@@ -339,6 +340,7 @@ ee3ca0bea58db2a968790b1481a94b2c Assembly-CSharp.dll:Fungus.SaveData
 b0e44a4640c05bc7dffcf824950f569e Assembly-CSharp.dll:Fungus.ExecuteLua
 8a50d3d11bf0cc541f5c35347dd25633 Assembly-CSharp.dll:TMPro.Examples.ShaderPropAnimator
 5f692182acc4e73fadde07d2de7cc644 Assembly-CSharp.dll:Fungus.Label
+b3a7072bc5700079320f1eb60d322f8e Assembly-CSharp.dll:.SupportItem
 9fcb8ba9ef84c15ee213c3fa147e52ef Assembly-CSharp.dll:Fungus.SpriteVariable
 5e6d45a991f8b0a32a316d0a266ae47b Assembly-CSharp.dll:Fungus.Abs
 abb921b4ef874b7b5b817e54014be6c9 Assembly-CSharp.dll:Fungus.While
