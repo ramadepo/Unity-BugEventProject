@@ -3,3 +3,4 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
 55b2eabe6e4865a45875568ddfb0008e filter=lfs diff=lfs merge=lfs -text
 72e25198746e5ee4496d660b4d17daab filter=lfs diff=lfs merge=lfs -text
+sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
