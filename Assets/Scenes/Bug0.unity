@@ -17456,6 +17456,7 @@ Transform:
   - {fileID: 1632291640}
   - {fileID: 937184756}
   - {fileID: 1613436513}
+  - {fileID: 1306249526}
   m_Father: {fileID: 671214568}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -24985,7 +24986,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1072504122
 Transform:
   m_ObjectHideFlags: 0
@@ -29462,9 +29463,9 @@ Transform:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1306249525}
-  m_LocalRotation: {x: -0, y: 0.18533176, z: -0, w: 0.982676}
-  m_LocalPosition: {x: 0.00799, y: 0.02279, z: 0.0147}
-  m_LocalScale: {x: 0.004214581, y: 0.004214577, z: 0.004214582}
+  m_LocalRotation: {x: -0.5382787, y: 0.542696, z: 0.4588447, w: 0.45298854}
+  m_LocalPosition: {x: 0.21879444, y: 0.33010584, z: -0.25400764}
+  m_LocalScale: {x: 0.21073039, y: 0.2107301, z: 0.21073034}
   m_Children:
   - {fileID: 196092596}
   - {fileID: 855953082}
@@ -29474,8 +29475,8 @@ Transform:
   - {fileID: 1044292801}
   - {fileID: 1133391458}
   - {fileID: 2133589508}
-  m_Father: {fileID: 1999685319}
-  m_RootOrder: 0
+  m_Father: {fileID: 757331483}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 21.361, z: 0}
 --- !u!95 &1306249527
 Animator:
@@ -34745,7 +34746,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1554875082
 Transform:
   m_ObjectHideFlags: 0
@@ -38596,7 +38597,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 8bc94ec6ed537e743b481638bdcd503d, type: 3}
   m_JumpSound: {fileID: 8300000, guid: 5897aeed9b676024fbb8c694b421a861, type: 3}
   m_LandSound: {fileID: 8300000, guid: 3b09d59f4499d45428baa7a21e954296, type: 3}
-  ani: {fileID: 1554875083}
+  ani: {fileID: 1833084706}
 --- !u!136 &1730401753
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -49519,8 +49520,7 @@ Transform:
   m_LocalRotation: {x: 0.7673262, y: -0.15373556, z: 0.02402206, w: -0.6220924}
   m_LocalPosition: {x: 0.0009903077, y: -0.002821146, z: 0.027176725}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 1306249526}
+  m_Children: []
   m_Father: {fileID: 1142858899}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -49664,7 +49664,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2008411034
 MonoBehaviour:
   m_ObjectHideFlags: 0
