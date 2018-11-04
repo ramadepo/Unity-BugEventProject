@@ -8,7 +8,8 @@ It's a game about saving your girlfriend when she has a big trouble that there a
 
 Player need to protect girlfriend and find all SpiderMoms simultaneously.
 
-- Game Engine : Unity
+- Engine : Unity, Maya
+- Language : C#
 - Platform : Windows
 - Assets : Fungus, TextMesh Pro, PostProcessing
 - Device : mouse, keyboard
