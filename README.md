@@ -1,6 +1,6 @@
 Third-Grade Project : DEBUG
 ===
-It's a project in third-grade in NCU, made by
+It's a project made in 3rd-grade in NCU, made by
 - Game Program : 劉冠聲
 - Picture, Model : 戴逸任
 
