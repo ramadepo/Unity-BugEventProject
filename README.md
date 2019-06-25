@@ -14,4 +14,4 @@ Player need to protect girlfriend and find all SpiderMoms simultaneously.
 - Assets : Fungus, TextMesh Pro, PostProcessing
 - Device : mouse, keyboard
 
-All model and source material are included in **Ref.txt**.
+All model and source material are included in [Ref.txt](https://github.com/ramadepo/Unity-DEBUG/blob/master/Ref.txt).
